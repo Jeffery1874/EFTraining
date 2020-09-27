@@ -1,4 +1,8 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\EFTraining"
+  ],
+  "SelectedNode": "\\EFTraining\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
